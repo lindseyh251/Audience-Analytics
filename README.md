@@ -7,8 +7,6 @@ relevant to digital newsroom environments.
 
 ## 📊 [View Live Dashboard](https://lindseyh251.github.io/Audience-Analytics/)
 
-https://lindseyh251.github.io/Audience-Analytics/
-
 ## Overview
 This project simulates a newsroom audience analytics workflow, answering the 
 questions editors and analysts ask daily:
