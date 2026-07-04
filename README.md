@@ -5,7 +5,9 @@ An editorial intelligence report analyzing reader behavior patterns from the
 Microsoft News Dataset (MIND), built to demonstrate audience analytics skills 
 relevant to digital newsroom environments.
 
-## 📊 [View Live Dashboard](https://lindseyh251.github.io/news-audience-analytics/)
+## 📊 [View Live Dashboard](https://lindseyh251.github.io/Audience-Analytics/)
+
+https://lindseyh251.github.io/Audience-Analytics/
 
 ## Overview
 This project simulates a newsroom audience analytics workflow, answering the 
