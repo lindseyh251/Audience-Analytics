@@ -61,6 +61,3 @@ public GA4 demo account.
 Lindsey Hornberger | [GitHub Portfolio](https://github.com/lindseyh251)
 
 
-
-## Author
-Lindsey Hornberger | [GitHub Portfolio](https://github.com/lindseyh251)
