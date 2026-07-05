@@ -1,3 +1,6 @@
+# Audience Analytics Projects 
+## by Lindsey Hornberger 
+
 
 # News Audience Analytics: Content Performance & Reader Engagement
 
@@ -27,6 +30,39 @@ questions editors and analysts ask daily:
 [Microsoft News Dataset (MIND-small)](https://msnews.github.io/) — 
 anonymized behavior logs from Microsoft News, October–November 2019.
 50,000 users · 156,965 sessions · 51,002 articles
+
+
+
+# GA4 Audience Analytics Dashboard
+A digital audience analytics dashboard built on the Google Analytics 4 
+Demo Property (Google Merchandise Store), demonstrating GA4 reporting 
+workflows applicable to newsroom audience analysis.
+
+## 📈 [View Live Dashboard](https://datastudio.google.com/s/kcre8jQ4XNc)
+
+## Overview
+This dashboard simulates the kind of daily audience intelligence 
+a newsroom analyst would surface for editors:
+
+- **Traffic sources** — where readers come from and which channels drive the most sessions
+- **Engagement trends** — session patterns over time to identify traffic spikes and drops
+- **Top content** — highest-performing pages by sessions and engaged sessions
+- **Device breakdown** — mobile vs. desktop split informing content formatting strategy
+
+## Tools & Methods
+- Google Analytics 4 (GA4)
+- Looker Studio
+- GA4 Demo Property (Google Merchandise Store)
+
+## Data Source
+[Google Analytics 4 Demo Property](https://support.google.com/analytics/answer/6367342) —
+real traffic data from the Google Merchandise Store, accessible via Google's 
+public GA4 demo account.
+
+## Author
+Lindsey Hornberger | [GitHub Portfolio](https://github.com/lindseyh251)
+
+
 
 ## Author
 Lindsey Hornberger | [GitHub Portfolio](https://github.com/lindseyh251)
