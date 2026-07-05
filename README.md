@@ -1,6 +1,4 @@
 # Audience Analytics Projects 
-## by Lindsey Hornberger 
-
 
 # News Audience Analytics: Content Performance & Reader Engagement
 
