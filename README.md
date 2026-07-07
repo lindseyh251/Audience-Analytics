@@ -4,9 +4,7 @@
 
 An editorial intelligence report analyzing reader behavior patterns from the 
 Microsoft News Dataset (MIND), built to demonstrate audience analytics skills 
-relevant to digital newsroom environments.
-
-## 📊 [View Live Dashboard](https://lindseyh251.github.io/Audience-Analytics/)
+relevant to digital newsroom environments.📊 [View Live Dashboard](https://lindseyh251.github.io/Audience-Analytics/)
 
 ## Overview
 This project simulates a newsroom audience analytics workflow, answering the 
@@ -34,9 +32,7 @@ anonymized behavior logs from Microsoft News, October–November 2019.
 # GA4 Audience Analytics Dashboard
 A digital audience analytics dashboard built on the Google Analytics 4 
 Demo Property (Google Merchandise Store), demonstrating GA4 reporting 
-workflows applicable to newsroom audience analysis.
-
-## 📈 [View Live Dashboard](https://datastudio.google.com/s/kcre8jQ4XNc)
+workflows applicable to newsroom audience analysis. 📈 [View Live Dashboard](https://datastudio.google.com/s/kcre8jQ4XNc)
 
 ## Overview
 This dashboard simulates the kind of daily audience intelligence 
